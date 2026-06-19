@@ -5,6 +5,7 @@ public class Board {
     private int    id;
     private String title;
     private String author;
+//[B계정이 추가]
 }
     // feature/A: 조회수 기능 추가
     private int viewCount = 0;
