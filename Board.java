@@ -1,3 +1,4 @@
+//[B계정, conflict/B branch에서 수정함.]
 public class Board {
     private int    id;
     private String title;
